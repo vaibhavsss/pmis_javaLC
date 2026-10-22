@@ -10,5 +10,5 @@ class Solution {
             return totalGap += duration;
         }
         return totalGap;
-}
+    }
 }
