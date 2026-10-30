@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 2 / 238 (0.8%)
+- **Completed:** 3 / 238 (1.3%)
 
 ---
 
@@ -37,7 +37,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 ### 📂 MODULE  2.5: POWER, EXPONENT & LOGIC MAT
 - [ ] Nth Magical Number
 - [ ] Power of Two
-- [ ] Power of Three
+- [x] [Power of Three](./Java/Easy/326. Power of Three/)
 - [ ] Power of Four
 - [ ] Integer Break
 
