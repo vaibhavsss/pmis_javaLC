@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 6 / 238 (2.5%)
+- **Completed:** 7 / 238 (2.9%)
 
 ---
 
@@ -196,7 +196,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Longest Substring Without Repeating Characters
 - [ ] Jewels and Stones
 - [ ] Find the Difference
-- [ ] Ransom Note
+- [x] [Ransom Note](./Java/Easy/383. Ransom Note/)
 - [ ] Check Two String Arrays Are Equivalent
 - [ ] Delete Capital Letters Check
 - [ ] Equal Character Frequency
