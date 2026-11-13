@@ -8,8 +8,8 @@
 Math
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 19 ms
+- **Memory:** 45.5 MB
 
 ---
 
@@ -17,7 +17,7 @@ Math
 
 Given an integer  `x` , return  `true`  if  `x`  is a  **palindrome** , and  `false`  otherwise.
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 ```
 Input: x = 121
