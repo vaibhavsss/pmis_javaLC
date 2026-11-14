@@ -28,7 +28,7 @@ A  **happy number**  is a number defined by the following process:
 
 Return  `true`   *if*   `n`   *is a happy number, and*   `false`   *if not* .
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 ```
 Input: n = 19
