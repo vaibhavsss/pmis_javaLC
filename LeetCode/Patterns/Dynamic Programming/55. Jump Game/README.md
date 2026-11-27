@@ -1,6 +1,6 @@
 # 📝 55. Jump Game (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/jump-game/?envType=problem-list-v2&envId=array)
+🔗 [Problem Link](https://leetcode.com/problems/jump-game/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -19,7 +19,7 @@ You are given an integer array  `nums` . You are initially positioned at the arr
 
 Return  `true`  *if you can reach the last index, or*  `false`  *otherwise* .
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 ```
 Input: nums = [2,3,1,1,4]
